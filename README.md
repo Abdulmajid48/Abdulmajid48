@@ -46,6 +46,6 @@ I am a software engineer with two years of experience, specializing in web devel
 
 ---
 
-⭐ **Let's build the future of web & health tech together!** 🚀
+⭐ **Let's build the future of web & Blockchain together!** 🚀
 
 

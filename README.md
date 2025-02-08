@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | Technical Writer**  
 
-I am a software engineer with two years of experience, specializing in web development. My expertise includes Git, React, Next.js, Typescript JavaScript, HTML, and CSS, alongside a strong focus on collaboration and team-driven development. Currently, I am currently focused on building accessible, management-focused projects, prioritizing usability and functionality in every solution I create.  
+I am a software engineer with two years of experience, specializing in web development. My expertise includes Git, React, Next.js, Typescript, JavaScript, HTML, and CSS, alongside a strong focus on collaboration and team-driven development. Currently, I am currently focused on building accessible, management-focused projects, prioritizing usability and functionality in every solution I create.  
 
 ---
 
@@ -39,7 +39,7 @@ I am a software engineer with two years of experience, specializing in web devel
 ---
 
 ## 📫 Connect With Me
-- [Email](aladejanamajid48@gmail.com)
+- [Email](mailto:aladejanamajid48@gmail.com)
 - [Twitter](https://x.com/aladejanaamajid)
 - [LinkedIn](https://www.linkedin.com/in/abdul-majid-aladejana/)
 - [Portfolio](https://snippet-flame.vercel.app/)
